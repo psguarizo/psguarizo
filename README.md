@@ -126,7 +126,7 @@ Utilizo meus projetos como uma forma de documentar minha evolução durante minh
 
 ## 💡 Filosofia
 
-> *"Conhecimento ganha valor quando é colocado em prática."*
+> *"Ache Conforto No Desconforto."*
 
 Estou construindo minha carreira passo a passo, buscando transformar:  
 `Conhecimento` → `Projetos` → `Experiência` → `Oportunidades`
