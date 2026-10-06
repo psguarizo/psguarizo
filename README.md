@@ -83,7 +83,7 @@ Utilizo meus projetos como uma forma de documentar minha evolução durante minh
 
 <div align="center">
 
-> 🚧 **Portfólio em construção**  
+> 🚧 **Portfólio: https://psguarizo.github.io/**  
 > *Em breve:* Projetos Web • JavaScript • Back-end • Projetos pessoais
 
 </div>
