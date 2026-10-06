@@ -1,27 +1,18 @@
-README.md — código bruto
-
-
 <div align="center">
+👋 Olá, eu sou Pedro Henrique Guarizo
+💻 Software Development Student
 
-# 👋 Olá, eu sou Pedro Henrique Guarizo
-
-### 💻 Software Development Student
-
-**JavaScript • Web Development • Back-end**
+JavaScript • Web Development • Back-end
 
 </div>
+👨‍💻 Sobre mim
 
----
+Sou estudante de Desenvolvimento de Sistemas no SENAI, atualmente construindo minha base em desenvolvimento de software.
 
-## 👨‍💻 Sobre mim
-
-Sou estudante de **Desenvolvimento de Sistemas no SENAI**, atualmente construindo minha base em desenvolvimento de software.
-
-Meu foco principal é **JavaScript**, com estudos voltados para desenvolvimento **Web, Front-end e Back-end**.
+Meu foco principal é JavaScript, com estudos voltados para desenvolvimento Web, Front-end e Back-end.
 
 Gosto de aprender através da prática, criando projetos e transformando conceitos em aplicações reais.
 
-```javascript
 const developer = {
     name: "Pedro Henrique Guarizo",
     education: "Desenvolvimento de Sistemas — SENAI",
@@ -40,6 +31,7 @@ const developer = {
 🛠️ Ferramentas
 <div align="left"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> </div>
 🚀 O que estou construindo
+
 Atualmente estou desenvolvendo projetos para colocar em prática meus conhecimentos em:
 
 🌐 Desenvolvimento Web
@@ -57,10 +49,12 @@ Atualmente estou desenvolvendo projetos para colocar em prática meus conhecimen
 Meu objetivo é evoluir gradualmente de projetos acadêmicos para aplicações cada vez mais completas.
 
 📂 Projetos
+
 Alguns dos meus projetos estão relacionados à minha formação no SENAI e representam diferentes etapas da minha evolução.
 
 <div align="center">
 🚧 Em breve...
+
 Projetos pessoais • Aplicações Web • JavaScript • Back-end
 
 </div>
@@ -69,21 +63,30 @@ Projetos pessoais • Aplicações Web • JavaScript • Back-end
 🎯 Objetivo
 <div align="center">
 Aprender
-↓
-Construir
-↓
-Experimentar
-↓
-Evoluir
-↓
-Desenvolver soluções reais
 
+↓
+
+Construir
+
+↓
+
+Experimentar
+
+↓
+
+Evoluir
+
+↓
+
+Desenvolver soluções reais
 </div>
+
 Estou construindo minha carreira passo a passo, buscando transformar conhecimento em projetos e projetos em experiência.
 
 📫 Contato
 <div align="center"> <a href="https://github.com/psguarizo"> <img src="https://img.shields.io/badge/GitHub-psguarizo-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"/> </a>
+
 <br><br>
 
 Building skills. Building projects. Building my future.
-</div> ```
+</div>
